@@ -1,0 +1,15 @@
+[
+{
+  "modid": "railcraftbccompat",
+  "name": "Railcraft BC Compat",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "authorList": ["Techjar"],
+  "credits": "lol",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
